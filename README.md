@@ -4,4 +4,6 @@
 
 ### testando o git diff
 
-*comando git push
+* comando git push
+
+* comando git pull
